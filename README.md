@@ -5,10 +5,12 @@ you can use it like a normal raspberry pi pico as far as im aware.
 
 i made it just to learn to how do this type of stuff because i really love the idea of me making my own stuff instead of buying it premade for me so like you could say my dream rn is to build my own custom keyboard but thats for when im actually good at this stuff and also when i get enough money.
 
-**heres the schematic:**<img width="1275" height="888" alt="image" src="https://github.com/user-attachments/assets/77e4734b-7896-4b68-9981-449202cb8759" />
+**heres the schematic:**<img width="1331" height="915" alt="image" src="https://github.com/user-attachments/assets/4dc195c4-5aeb-47d4-b7cb-19cd106c11a9" />
+
 
 **heres the pcb:**
-<img width="443" height="668" alt="image" src="https://github.com/user-attachments/assets/c33e85da-ece6-411b-9e05-c2830a1d9863" />
+<img width="766" height="908" alt="image" src="https://github.com/user-attachments/assets/794319a4-3f80-42b1-8cfa-17302472ed14" />
+
 
 **heres a render of the board(dont mind the drawings im inlove with sparta and the BOS)**:<img width="625" height="871" alt="image" src="https://github.com/user-attachments/assets/9ebfbae0-e3a4-40da-9c70-6726b5037ff3" />
 
