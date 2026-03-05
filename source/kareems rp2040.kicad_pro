@@ -490,7 +490,7 @@
       "plot": "../gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "kareems rp2040.step",
+      "step": "../kareem-s-s-rp2040/kareems rp2040.step",
       "svg": "",
       "vrml": ""
     },
