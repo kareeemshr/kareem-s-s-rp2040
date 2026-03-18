@@ -1,5 +1,5 @@
 # kareem-s-s-rp2040
-my very own custom devboard that i made...well i made it cus i thought itd be cool as hell and it is,im very proud of myself for making it but nonetheless:
+(small note:there are decoupiling cap's clumped up together cus of space restrictions and no i cant really make the pcb 4 layers because im like 10 bucks away from being over budget)my very own custom devboard that i made...well i made it cus i thought itd be cool as hell and it is,im very proud of myself for making it but nonetheless:
 
 you can use it like a normal raspberry pi pico as far as im aware.
 
