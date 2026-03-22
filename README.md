@@ -9,7 +9,8 @@ i made it just to learn to how do this type of stuff because i really love the i
 
 
 **heres the pcb:**
-<img width="576" height="890" alt="image" src="https://github.com/user-attachments/assets/57902e2f-6370-4c18-b4e4-e35b5dbe3f19" />
+<img width="660" height="903" alt="image" src="https://github.com/user-attachments/assets/bc7fff64-f9e5-48f6-b1ec-cb2804711f48" />
+
 
 
 
