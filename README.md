@@ -9,12 +9,13 @@ i made it just to learn to how do this type of stuff because i really love the i
 
 
 **heres the pcb:**
-<img width="660" height="903" alt="image" src="https://github.com/user-attachments/assets/bc7fff64-f9e5-48f6-b1ec-cb2804711f48" />
+<img width="614" height="929" alt="image" src="https://github.com/user-attachments/assets/c4c7ac1a-19f0-4d20-8f0f-387c7ba7500c" />
 
 
 
 
-**heres a render of the board(dont mind the drawings im inlove with sparta and the BOS)**:<img width="801" height="1005" alt="image" src="https://github.com/user-attachments/assets/249e6dc8-d460-48ea-945b-8ce50642af2c" />
+
+**heres a render of the board(dont mind the drawings im inlove with sparta and the BOS)**:<img width="586" height="956" alt="image" src="https://github.com/user-attachments/assets/a3fd7ab0-e3b1-4251-b5a4-e221cd854c30" />
 
 
 
